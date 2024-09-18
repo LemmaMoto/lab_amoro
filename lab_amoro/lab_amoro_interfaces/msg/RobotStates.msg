@@ -1,0 +1,7 @@
+float32 simulation_time
+lab_amoro_interfaces/States end_effector_x
+lab_amoro_interfaces/States end_effector_y
+lab_amoro_interfaces/States active_left_joint
+lab_amoro_interfaces/States active_right_joint
+lab_amoro_interfaces/States passive_left_joint
+lab_amoro_interfaces/States passive_right_joint
